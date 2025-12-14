@@ -1,0 +1,16 @@
+Pasien/User Login Details
+Username: pablo@gmail.com  Password: admin123
+Username: yamal@gmail.com  Password: admin123
+Username: megarita@gmail.com  Password: admin123
+
+
+Doctor Login Details
+Username: ajisSatar@gmail.com  Password: admin123
+Username: ambarita1@gmail.com  Password: admin123
+Username: hitler@gmail.com  Password: admin123
+Username: Aidit@gmail.com  Password: admin123
+Username: Firaun@gmail.com  Password: admin123
+Username: Nurdin@gmail.com  Password: admin123
+
+Admin Login Details
+Username: admin  Password: admin123
